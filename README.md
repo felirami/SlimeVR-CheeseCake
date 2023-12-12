@@ -30,15 +30,9 @@ For the CheeseCake you will need the following components:
 - PCB produced by JLC PCBA   
 - 3D Print Parts   
 - 38 or 40mm straps   
-<<<<<<< HEAD
--   Li-po Battery (_803035 800/900mAh is what the docs suggest_)
-    -   **Ensure the battery is no larger than 8mm in depth, 30mm in width, and 35mm in height to fit the case.**
-    -   **Verify the battery dimensions with the seller before purchase. Some sellers list 803035 batteries with dimensions exceeding 8mm x 30mm x 35mm, which will not fit in the 3D printed case.**
-=======
 -   Li-po Battery (_803035 800/900mAh or 903035 1000/1200mAh is what the docs suggest_)
     -   **Ensure the battery is no larger than 9mm in depth, 30mm in width, and 35mm in height to fit the case.**
     -   **Verify the battery dimensions with the seller before purchase. Some sellers list 803035 batteries with dimensions exceed, which will not fit in the 3D printed case.**
->>>>>>> 6d4c64e9da285c9acad237b29a9b72d21820f66c
 - Pogo Pins (Optional for specific supported PCBs) [\[More Info\]](001-‘’Cheese‘’/POGOPIN%20purchase%20Link.txt)
 - Soldering Iron/Station 
 
